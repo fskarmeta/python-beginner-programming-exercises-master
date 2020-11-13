@@ -1,0 +1,5 @@
+{
+  "exercises/08-Your-First-If/test.py::test_for_more[[\"32\"]-execute_app]": true,
+  "exercises/08-Your-First-If/test.py::test_for_more[[null]-execute_app]": true,
+  "exercises/22-Bottles-Of-Milk/test.py::test_for_function_output": true
+}
